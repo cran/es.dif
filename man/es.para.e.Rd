@@ -27,3 +27,6 @@ In some situations, the confidence interval may be inaccurate, and the warning m
 \examples{
 es.para.e(2,3,1,2,4,3)
 }
+\references{
+Aoki S., Ito M. & Shimada M. (2019) Effect sizes of the differences between means without assuming the variance equality and between a mean and a constant. arXiv:1901.09581.
+}
