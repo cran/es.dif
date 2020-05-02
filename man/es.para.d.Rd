@@ -25,6 +25,8 @@ In some situations, the confidence interval may be inaccurate, and the warning m
 es.para.d(2,3,1,2,4,3)
 }
 \references{
+Aoki S. (2020) Effect sizes of the differences between means without assuming the variance equality and between a mean and a constant. Heliyon 6(1): e03306.
+
 Aoki S., Ito M. & Shimada M. (2019) Effect sizes of the differences between means without assuming the variance equality and between a mean and a constant. arXiv:1901.09581.
 
 Cohen, J. (1988). Statistical Power Analysis for the Behavioral Sciences, 2nd edition. New York: Academic Press.

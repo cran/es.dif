@@ -1,10 +1,10 @@
-e0f8af31caa07c1f522b752527c55f2b *DESCRIPTION
+d3fff6e3c9b3335dbc5d4d3efd2f01ad *DESCRIPTION
 77f55de0ec8ac484686b532c5ae610ee *LICENSE
 32ed171321c7dd351990554d90e610c3 *NAMESPACE
 881eb30e0954337872a5a9eaea182a5e *R/es.R
-8f5cdec21f9e9013f01206b3ab3524ec *man/es.c.Rd
-ae0f0ebfe9a06ef57499315fa346ee2e *man/es.d.Rd
-ce2f312401e55dd0cbcce643d97701cf *man/es.e.Rd
-53cd1da9d558be45090d6ef8326a19b6 *man/es.para.c.Rd
-9112bf28cc5d8b3ebefd64f0d9527f79 *man/es.para.d.Rd
-01b53068931c00f725b4ebcf20205614 *man/es.para.e.Rd
+ec1bfc1b6db6bfe19d782cf296a70246 *man/es.c.Rd
+0c6fe0231f0fb01f499c801d28889cb7 *man/es.d.Rd
+c90fdbef889daab988ac373e7d0a3991 *man/es.e.Rd
+3027330c86c80e264a20d2e116ef3c13 *man/es.para.c.Rd
+59b9536a0112ad0a0685ac327b5d2b61 *man/es.para.d.Rd
+c8aa099ddfd7f896196d76c63d2cf5fa *man/es.para.e.Rd

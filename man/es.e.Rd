@@ -26,5 +26,7 @@ data2<-c(2,3,4)
 es.e(data1,data2)
 }
 \references{
+Aoki S. (2020) Effect sizes of the differences between means without assuming the variance equality and between a mean and a constant. Heliyon 6(1): e03306.
+
 Aoki S., Ito M. & Shimada M. (2019) Effect sizes of the differences between means without assuming the variance equality and between a mean and a constant. arXiv:1901.09581.
 }
